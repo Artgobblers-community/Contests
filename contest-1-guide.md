@@ -114,6 +114,8 @@ However, keep in mind that in the future, for identification as the author and f
 
 And don't forget about our [retweet contest!](https://github.com/Artgobblers-community/Contests/blob/main/retweet-contest-1-guide.md)
 
+This contest will last until approximately mid or end of May 2024.
+
 Good luck!
 
 
