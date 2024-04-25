@@ -10,7 +10,7 @@ Or you can mint blank pages for GOO tokens on the official [website](https://art
 
 ![Create Blank Page](https://gyazo.com/37caa52442b8d328322d1e9044035a21.png)
 
-Or you can ask for a blank page from those who own them. For example, you can write a DM on X/Twitter [@visavi_eth](https://twitter.com/visavi_eth)
+Or you can request a free blank page/invite, details in the "About invites" section at the end of this article.
 
 ## Step 2
 
