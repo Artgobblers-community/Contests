@@ -112,6 +112,8 @@ Invite your artist friends to the contest!
 
 However, keep in mind that in the future, for identification as the author and for receiving prizes, you will need to obtain a crypto address, for example, by installing a web wallet like MetaMask.
 
+And don't forget about our [retweet contest!](https://github.com/Artgobblers-community/Contests/blob/main/retweet-contest-1-guide.md)
+
 Good luck!
 
 
