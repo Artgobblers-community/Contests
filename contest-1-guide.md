@@ -6,7 +6,7 @@ The number of free pages available for the community is limited to three hundred
 To get free pages, send a DM on X/Twitter [@artgobs](https://twitter.com/artgobs) or post about it in the #spawn thread on the Artgobblers Discord server.
 
 If your address is not on the list, and you are not an owner of an Artgobblers NFT, you can purchase blank pages on NFT marketplaces, for example, [blur](https://blur.io/collection/pages?traits=%7B%22Glamination+Status%22%3A%5B%22Blank%22%5D%7D) or [opensea](https://opensea.io/collection/pages?search[stringTraits][0][name]=Glamination%20Status&search[stringTraits][0][values][0]=Blank) (current page price is $3-4). 
-Or you can mint blank pages for GOO tokens on the official [website](https://artgobblers.com/dashboard) => "Create Blank Page" button. Where to get GOO tokens is in a separate guide.
+Or you can mint blank pages for GOO tokens on the official [website](https://artgobblers.com/dashboard) => "Create Blank Page" button. Otherwise, here are [the instructions for purchasing GOO](https://github.com/Artgobblers-community/Contests/blob/main/goo-guide.md).
 
 ![Create Blank Page](https://gyazo.com/37caa52442b8d328322d1e9044035a21.png)
 
