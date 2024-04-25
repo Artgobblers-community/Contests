@@ -3,14 +3,14 @@
 ## Step 1
 To participate in the contest, you will need a blank page (you can send up to three pages to participate in the contest). If your address is listed [here](https://github.com/Artgobblers-community/Contests/blob/main/active-members-list.txt) or you are an owner of an [Artgobblers NFT ](https://opensea.io/collection/artgobblers) you can get three free pages to participate in the contest (or three invites, more details below). 
 The number of free pages available for the community is limited to three hundred, and the counter of available pages is [here](https://github.com/Artgobblers-community/Contests/blob/main/available-pages.md).
-To get free pages, send a DM on X/Twitter @artgobs or post about it in the #spawn thread on the Artgobblers Discord server.
+To get free pages, send a DM on X/Twitter [@artgobs](https://twitter.com/artgobs) or post about it in the #spawn thread on the Artgobblers Discord server.
 
 If your address is not on the list, and you are not an owner of an Artgobblers NFT, you can purchase blank pages on NFT marketplaces, for example, [blur](https://blur.io/collection/pages?traits=%7B%22Glamination+Status%22%3A%5B%22Blank%22%5D%7D) or [opensea](https://opensea.io/collection/pages?search[stringTraits][0][name]=Glamination%20Status&search[stringTraits][0][values][0]=Blank) (current page price is $3-4). 
 Or you can mint blank pages for GOO tokens on the official [website](https://artgobblers.com/dashboard) => "Create Blank Page" button. Where to get GOO tokens is in a separate guide.
 
 ![Create Blank Page](https://gyazo.com/37caa52442b8d328322d1e9044035a21.png)
 
-Or you can ask for a blank page from those who own them. For example, you can write a DM on X/Twitter @visavi_eth
+Or you can ask for a blank page from those who own them. For example, you can write a DM on X/Twitter [@visavi_eth](https://twitter.com/visavi_eth)
 
 ## Step 2
 
@@ -106,6 +106,12 @@ Invite your artist friends to the contest!
 
 ## About invites
 
+- If you are entitled to three free pages as a Gobbler owner or active artist, instead of three NFT pages, you can request three invites to participate in the contest. This will save you from having to spend ETH on sending NFTs to the community multisig. Each issued invite reduces the number of free pages available here. To request invites, you need to do the same as when obtaining pages - message [@artgobs](https://twitter.com/artgobs) or [@visavi_eth](https://twitter.com/visavi_eth) on Twitter/DM.
 
+- If you are not entitled to free pages/invites (or someone among your acquaintances who is an artist) and want to participate in our contest but cannot afford to purchase a blank page on the secondary market, or if you do not have ETH to pay the fee for sending NFTs to the contest, or if you (or your acquaintance artist) do not have a crypto wallet at all, you can request one free invite to participate in the contest. For this, send a DM on Twitter to [@artgobs](https://twitter.com/artgobs) or [@visavi_eth](https://twitter.com/visavi_eth). Invites issued this way also reduce the number of available free pages.
+
+However, keep in mind that in the future, for identification as the author and for receiving prizes, you will need to obtain a crypto address, for example, by installing a web wallet like MetaMask.
+
+Good luck!
 
 
