@@ -19,3 +19,5 @@ Please note, we also use multipliers:
 * If you own an NFT [Art Gobblers](https://blur.io/collection/artgobblers) AND are [listed](https://github.com/Artgobblers-community/Contests/blob/main/active-members-list.txt), you will have a x3 chance.
   
 To get on the specified list, just participate in the contest, the conditions of which are announced in the tweet you need to retweet.
+
+This contest will last until approximately mid or end of May 2024.
