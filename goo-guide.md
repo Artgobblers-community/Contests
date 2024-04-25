@@ -29,7 +29,7 @@ But enthusiasts have created an interesting infrastructure around the protocol, 
 
 You can use the [Goodao](https://goodao.io/) protocol, which is currently the largest holder of GOO in the Artgobblers ecosystem.
 
-For this, you need to purchase Wrapped WGOO on Uniswap (contract `0x600d003FEbc6c2B503621060Cbd371dCe1C8EF1e`). You can verify this on [their GitHub](https://github.com/DaoGoo/Contracts).
+For this, you need to purchase Wrapped GOO on Uniswap (contract `0x600d003FEbc6c2B503621060Cbd371dCe1C8EF1e`). You can verify this on [their GitHub](https://github.com/DaoGoo/Contracts).
 
 To do this, you need to go to [uniswap.org](https://app.uniswap.org/) 
 
