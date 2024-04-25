@@ -1,4 +1,4 @@
-# Guide to Obtaining GOO
+Now you have GOO, which you can deposit into the vault a# Guide to Obtaining GOO
 
 GOO is an ERC20 token on the Ethereum blockchain. It's part of the gameplay mechanics of the Artgobblers ecosystem and is necessary for minting new Artgobblers or new blank pages. Each Gobbler you hold generates GOO token, the higher the Gobbler's multiplier, the more GOO it produces. The more Gobblers you store in your Ethereum address, the higher their total multiplier and the more GOO you store, the more GOO your storage produces.
 
@@ -62,9 +62,6 @@ press the max button, and confirm the transaction.
 ![goodao](https://gyazo.com/30709921962a12cef35b3e11c9582946.png)
 
 Now you have GOO, which you can deposit into the vault at [the factory](https://artgobblers.com/factory) (if you own a Gobbler) or use the GOO to mint Gobblers or blank pages.
-
-[]()
-![](https://gyazo.com/1c21cbab50c33c9b16a4c4b047ad8f4b.png)
 
 ## 3rd Method
 For this, you need to use another protocol - [goober.xyz](https://goober.xyz/). 
