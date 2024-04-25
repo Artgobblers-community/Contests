@@ -7,6 +7,7 @@ To get free pages, send a DM on X/Twitter @artgobs or post about it in the #spaw
 
 If your address is not on the list, and you are not an owner of an Artgobblers NFT, you can purchase blank pages on NFT marketplaces, for example, [blur](https://blur.io/collection/pages?traits=%7B%22Glamination+Status%22%3A%5B%22Blank%22%5D%7D) or [opensea](https://opensea.io/collection/pages?search[stringTraits][0][name]=Glamination%20Status&search[stringTraits][0][values][0]=Blank) (current page price is $3-4). 
 Or you can mint blank pages for GOO tokens on the official [website](https://artgobblers.com/dashboard) => "Create Blank Page" button. Where to get GOO tokens is in a separate guide.
+
 ![Create Blank Page](https://gyazo.com/37caa52442b8d328322d1e9044035a21.png)
 
 Or you can ask for a blank page from those who own them. For example, you can write a DM on X/Twitter @visavi_eth
@@ -75,7 +76,7 @@ Select in this way up to three pages
 
 ![select](https://gyazo.com/409987ebd4d785211c2c8ebd314abb11.png)
 
-Click the "transfer X items" button at the bottom of the page
+Click the "Transfer" button at the bottom of the page
 
 ![transfer](https://gyazo.com/72baeaf5ce603433e3ce58f620ab1056.png)
 
@@ -85,8 +86,8 @@ Copy the community wallet address `0x1C37968ea6CB96adebEeB6344dAc1646Ffb8C15f` (
 
 Click the "transfer X items" button.
 
-Remember, your crypto wallet must have a little ETH to complete the transfer (about $3). Confirm the transaction in your crypto wallet. 
-Now you are participating in the contest!
+Remember, your crypto wallet must have a little ETH to complete the transfer (about $3). Also, you may need to approve OpenSea to spend your pages, which could result in a few more dollars in fees. Confirm the transaction in your crypto wallet. 
+Now you are participating in the contest! Great!
 
 ## Information about prizes:
 ### 1st place 
