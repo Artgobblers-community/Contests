@@ -14,7 +14,7 @@ Or you can request a free blank page/invite, details in the "About invites" sect
 
 ## Step 2
 
-After you have received the invites or pages, start drawing! Go to the [website](https://artgobblers.com/) and click the "connect" button to connect your crypto wallet (e.g., MetaMask). Confirm the action.
+After you have received the invites or pages, start drawing! Go to the [artgobblers.com](https://artgobblers.com/) and click the "connect" button to connect your crypto wallet (e.g., MetaMask). Confirm the action.
 
 ![artgobbles.com](https://gyazo.com/1c21cbab50c33c9b16a4c4b047ad8f4b.png)
 
