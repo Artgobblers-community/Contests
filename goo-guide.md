@@ -66,7 +66,7 @@ Now you have GOO, which you can deposit into the vault at [the factory](https://
 ## 3rd Method
 For this, you need to use another protocol - [goober.xyz](https://goober.xyz/). 
 
-![goober](https://gyazo.com/60a3e821718a617bcfc86b0d8b230fa1.png)
+![goober](https://gyazo.com/516697e9ac9858e6af30ffadbc5b1a37.png)
 
 To get GOO this way, you need to purchase a Gobbler on the secondary market, for example, [Blur](https://blur.io/collection/artgobblers).
 After making the purchase, go to the [goober.xyz](https://goober.xyz/) website, and on the right side of the page, click the double arrow, selecting the exchange direction gobbler => goo.
@@ -85,7 +85,7 @@ Note, if you buy a x6 gobbler on Blur right now and exchange it this way for GOO
 
 Also note that purchasing a Gobbler on the goober website is significantly more beneficial than minting a Gobbler on the official site. This is precisely what the "VRGDA Discount" label on the goober website refers to.
 
-![goober](https://gyazo.com/6c00790351cfc020a85e8c2b1a98d957.png)
+![goober](https://gyazo.com/75bf19df07c4abce8f5e0e0781c06932.png)
 
 All of the above provides some arbitrage opportunities, think about them on your own.
 
