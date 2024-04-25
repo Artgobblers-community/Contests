@@ -51,7 +51,7 @@ For this example, we took the amount of 0.089 ETH because that is the current fl
 
 Then you need to visit the Goodao website at https://goodao.io/, and at the top of the site, you will see the GOO/wGOO rate = 89551, which means that by unwrapping your wGOO, you will receive 2.77409 * 89551 = 248k GOO tokens (minus a 2% commission).
 
-![goodao](https://gyazo.com/9b055b2b7dc4a2375303a69dd2085d32.png)
+![goodao](https://gyazo.com/c713bace01473b8fb9dbd845a3f537da.png)
 
 Next, you need to click the unwrap button, 
 
