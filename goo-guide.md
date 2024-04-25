@@ -85,7 +85,7 @@ Note, if you buy a x6 gobbler on Blur right now and exchange it this way for GOO
 
 Also note that purchasing a Gobbler on the goober website is significantly more beneficial than minting a Gobbler on the official site. This is precisely what the "VRGDA Discount" label on the goober website refers to.
 
-![goober](https://gyazo.com/a9b250242dc55e3057504cfe721bca05.png)
+![goober](https://gyazo.com/6c00790351cfc020a85e8c2b1a98d957.png)
 
 All of the above provides some arbitrage opportunities, think about them on your own.
 
