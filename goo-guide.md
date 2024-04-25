@@ -49,7 +49,7 @@ Please note, the Uniswap warning about a 99% slippage does not reflect reality (
 
 For this example, we took the amount of 0.089 ETH because that is the current floor price of an Artgobbler. Thus, we can buy 2.77409 wGOO for 0.089 ETH.
 
-Then you need to visit the Goodao website at https://goodao.io/, and at the top of the site, you will see the GOO/wGOO rate = 89551, which means that by unwrapping your wGOO, you will receive 2.77409 * 89551 = 248k GOO tokens (minus a 2% commission).
+Then you need to visit the [goodao.io](https://goodao.io/), and at the top of the site, you will see the GOO/wGOO rate = 89551, which means that by unwrapping your wGOO, you will receive 2.77409 * 89551 = 248k GOO tokens (minus a 2% commission).
 
 ![goodao](https://gyazo.com/c713bace01473b8fb9dbd845a3f537da.png)
 
