@@ -26,6 +26,7 @@ You will have standard tools such as layers, fill, and brush, and two thousand s
 
 ![draw](https://gyazo.com/e79fa53f881649eccdfae17205fa307c.png)
 
+You can draw anything, there are no specific conditions or criteria for your drawings!
 Don’t forget to name your drawing! 
 
 ![name](https://gyazo.com/da953d9d4d92fcacec3689e8a5ca6829.png)
