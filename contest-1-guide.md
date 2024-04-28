@@ -120,7 +120,10 @@ This contest will last until approximately mid or end of May 2024.
 Good luck!
 
 ## Participants:
-* [0x687AcffEA0D945216cfA234Bb181ebBa2011C008 @merdan_kadyrow](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/4474)
-* [0x687AcffEA0D945216cfA234Bb181ebBa2011C008 @merdan_kadyrow](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/5295)
-* [0x687AcffEA0D945216cfA234Bb181ebBa2011C008 @merdan_kadyrow](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/5335)
+* [Untitled Artwork by @merdan_kadyrow](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/4474)
+* [Untitled Artwork by @merdan_kadyrow](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/5295)
+* [Untitled Artwork by @merdan_kadyrow](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/5335)
+* [Calico by @RYuki_79](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/28)
+* [望春天 by @MazzyZhang](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/11352)
+* [被追捕的艺术大盗 by @MazzyZhang](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/7840)
 
