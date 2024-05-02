@@ -41,3 +41,4 @@ This contest will last until approximately mid or end of May 2024.
 * 0x1D7ec29fd029F32D3d45777857cc8325bAB4EfC5 @le___Clochard (x1)
 * 0x372Fee954C8B6c8b2838b2EBa8bf331B9821c5DC @uglydewdropper (x1)
 * 0x78005E1fe42092408CDE52Cd47d78C1c2b8D0528 @being0496 (x1)
+* 0xd1C442e9e2dE99D95036bB13EC07C94c6fb8fc03 @a... (x2)
