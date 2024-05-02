@@ -126,4 +126,7 @@ Good luck!
 * [Calico by @RYuki_79](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/28)
 * [望春天 by @MazzyZhang](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/11352)
 * [被追捕的艺术大盗 by @MazzyZhang](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/7840)
+* [The Unknown by @P1u3mm](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/11349)
+* [The Fallen by @P1u3mm](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/11351)
+* [Scarlett @RYuki_79](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/115)
 
