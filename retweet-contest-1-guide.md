@@ -1,4 +1,4 @@
-# Guide for Participation in Retweet Contest #1
+# Guide for Participation in X/Retweet Contest #1
 
 Three randomly selected winners will each receive 0.1 ETH (more than $300 each).
 
