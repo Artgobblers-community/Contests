@@ -128,5 +128,14 @@ Good luck!
 * [被追捕的艺术大盗 by @MazzyZhang](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/7840)
 * [The Unknown by @P1u3mm](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/11349)
 * [The Fallen by @P1u3mm](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/11351)
-* [Scarlett @RYuki_79](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/115)
+* [Scarlett by @RYuki_79](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/115)
+* [怒！by OASIS-1016](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/2715)
+* [Artifact of the era by @le___Clochard](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/4165)
+* [Strawbekiss by @le___Clochard](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/4167)
+* [The Apotheosis of War by @le___Clochard](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/4166)
+* [Looking up by @Lamenthyst](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/11354)
+* [The Angel's Emergence by @Lamenthyst](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/11360)
+* [Proshai, Livushka by @GobbaGoon](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/3570)
+* [KING WATCHER by @aintnoking](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/116)
+  
 
