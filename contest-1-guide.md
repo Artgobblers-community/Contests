@@ -137,5 +137,18 @@ Good luck!
 * [The Angel's Emergence by @Lamenthyst](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/11360)
 * [Proshai, Livushka by @GobbaGoon](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/3570)
 * [KING WATCHER by @aintnoking](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/116)
+* [The SQUARE of Life by @Neo_Arts9](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/1546)
+* [Golden fields by @Sea2538](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/2503)
+* [Seppuku by @Neo_Arts9](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/1548)
+* [Last Wave by @aintnoking](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/125)
+* [LURK by @aintnoking](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/136)
+* [Tranquility by @Sea2538](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/11348)
+* [Cold night by @Sea2538](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/11350)
+* [The Eternity by @P1u3mm](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/11356)
+* [Poor catalcohollic by @Cherrynekonya](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/7235)
+* [Susuwatari by @Cherrynekonya](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/11587)
+* [Saurrai by @Cherrynekonya](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/11588)
+* [Confession by @Lamenthyst](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/11361)
+
   
 
