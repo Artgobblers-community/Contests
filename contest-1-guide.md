@@ -149,6 +149,15 @@ Good luck!
 * [Susuwatari by @Cherrynekonya](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/11587)
 * [Saurrai by @Cherrynekonya](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/11588)
 * [Confession by @Lamenthyst](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/11361)
+* [The Last Train by @luis17284254](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/9352)
+* [Long way home by @luis17284254](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/9353)
+* [追 by @MazzyZhang](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/11362)
+* [DIVE INTO MY WORLD by @evzadolls](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/11670)
+* [ADAPTATION by @evzadolls](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/11671)
+* [the face of protest by @esikkoba](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/11662)
+* [lovers by @esikkoba](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/4467)
+* [riot policeman by @esikkoba](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/11661)
+
 
   
 
