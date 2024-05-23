@@ -17,7 +17,7 @@ This can be done using Python code:
 
 or using any [online converter](https://www.rapidtables.com/convert/number/hex-to-decimal.html):
 
-![converter](https://gyazo.com/eee9d16368507a38d96b754c2b24a985)
+![converter](https://gyazo.com/eee9d16368507a38d96b754c2b24a985.png)
 
 After that, we will divide this decimal number by the number of items in our list (25), and we will take the remainder of the division as the index of the winner in the list.
 
