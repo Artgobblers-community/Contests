@@ -5,7 +5,9 @@ The list of participants and their multipliers is in the picture:
 We have a total of 20 participants, the sum of their multipliers = 25, which means there are 25 items in the final list,
 
 Here is the final list:
+------------
 [@Neo_Arts9, @MazzyZhang, @RYuki_79, @victorfuror_eth, @Feld4014, @notablebuyer, @SWHEATZ1, @Lamenthyst, @Sea2538, @luis17284254, @eminnisa_, @SawariART, @merdan_kadyrow, @P1u3mm, @le___Clochard, @uglydewdropper, @being0496, @a..., @d..., @Cherrynekonya, @Neo_Arts9, @Feld4014, @notablebuyer, @a..., @Neo_Arts9]
+------------
 
 As a source of randomness, we will use hashes of Ethereum transactions.
 We will sign three empty transactions from our multisig. After their confirmation, we will take the hash of each transaction and convert it into a decimal number.
