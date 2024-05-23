@@ -27,7 +27,7 @@ For example, if the remainder of the division of the first number is equal to 0,
 
 Remember: the first index of the list is 0, the last is 24.
 
-After determining the first winner, we will remove all his mentions from our list, recount the number of items, divide the hash of the second transaction by the number of its items, and so on,
+After determining the first winner, we will remove all his mentions from our list, recount the number of items, divide the hash of the second transaction by the number of its items, and so on.
 
 In this way, we will determine three winners.
 
