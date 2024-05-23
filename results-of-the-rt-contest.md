@@ -11,10 +11,12 @@ As a source of randomness, we will use hashes of Ethereum transactions.
 We will sign three empty transactions from our multisig. After their confirmation, we will take the hash of each transaction and convert it into a decimal number.
 
 This can be done using Python code:
+
 ![python](https://gyazo.com/ee7cfd39804f7b0cc741570137c53d47.png)
 ![python](https://gyazo.com/0be576dca9454636e30519ed4e76689e.png)
 
 or using any [online converter](https://www.rapidtables.com/convert/number/hex-to-decimal.html):
+
 ![converter](https://gyazo.com/eee9d16368507a38d96b754c2b24a985)
 
 After that, we will divide this decimal number by the number of items in our list (25), and we will take the remainder of the division as the index of the winner in the list.
