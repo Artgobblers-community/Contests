@@ -39,15 +39,19 @@ Hashes and results will be listed below:
 first tx: https://etherscan.io/tx/0x7ed9504fae2ed75aa5fbc0fbe36009e13511e1adcbbadbaec18fd4ff0dc1dbb1
 hash: 0x7ed9504fae2ed75aa5fbc0fbe36009e13511e1adcbbadbaec18fd4ff0dc1dbb1
 decimal: 57375379022435612397988675978967748143970989204556517738954035121126360865713
-remainder of the division: 57375379022435612397988675978967748143970989204556517738954035121126360865713 % 25 = 13, first winner - @P1u3mm 
+remainder of the division: 57375379022435612397988675978967748143970989204556517738954035121126360865713 % 25 = 13, first winner - @P1u3mm
+---------
 
 New list (without @P1u3mm): [@Neo_Arts9, @MazzyZhang, @RYuki_79, @victorfuror_eth, @Feld4014, @notablebuyer, @SWHEATZ1, @Lamenthyst, @Sea2538, @luis17284254, @eminnisa_, @SawariART, @merdan_kadyrow, @le___Clochard, @uglydewdropper, @being0496, @a..., @d..., @Cherrynekonya, @Neo_Arts9, @Feld4014, @notablebuyer, @a..., @Neo_Arts9] (indexes from 0 to 23)
+
 second tx: https://etherscan.io/tx/0xf1fff37dfac52a3358ccd5d4ce654a2318306d2ffba83e57f84c621845f5c10e
 hash: 0xf1fff37dfac52a3358ccd5d4ce654a2318306d2ffba83e57f84c621845f5c10e
 decimal: 109459623030850472933139970945407045061303252476663494741369798308414906286350
 remainder of the division: 109459623030850472933139970945407045061303252476663494741369798308414906286350 % 24 = 22, second winner - @a... | ilidan.eth
+---------
 
 New list (without @a...): [@Neo_Arts9, @MazzyZhang, @RYuki_79, @victorfuror_eth, @Feld4014, @notablebuyer, @SWHEATZ1, @Lamenthyst, @Sea2538, @luis17284254, @eminnisa_, @SawariART, @merdan_kadyrow, @le___Clochard, @uglydewdropper, @being0496, @d..., @Cherrynekonya, @Neo_Arts9, @Feld4014, @notablebuyer, @Neo_Arts9] (indexes from 0 to 21)
+
 third transaction: https://etherscan.io/tx/0xab57516626d65f7b90b2a1c8d689740173d82f07eb94f67322c5017757d5128c
 hash: 0xab57516626d65f7b90b2a1c8d689740173d82f07eb94f67322c5017757d5128c
 decimal: 77499774597832976945511774490584846488702132563841240445369894381787416957580
