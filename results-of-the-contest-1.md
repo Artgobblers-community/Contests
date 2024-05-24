@@ -54,7 +54,7 @@ hash: 3ef38ad3cd959e3b3e244b5313584b0c096bb14937f72852b3d18390bd1a3bd6
 
 ![first](https://gyazo.com/3272e36adef72a6569cc0c50f85647dc.png)
 
-proof - [pic](https://emn178.github.io/online-tools/sha256.html?input_type=utf-8&input=1.%20The%20Last%20Train%20%E2%80%93%20Art%20Gobbler%20Page%209352%0A2.%20ADAPTATION%20%E2%80%93%20Art%20Gobbler%20Page%2011671%0A3.%20Tranquility%20%E2%80%93%20Art%20Gobbler%20Page%2011348%0A4.%20LURK%20%E2%80%93%20Art%20Gobbler%20Page%20136%0A5.%20lovers%20%E2%80%93%20Art%20Gobbler%20Page%204467%0A6.%20Confession%20%E2%80%93%20Art%20Gobbler%20Page%2011361%0A7.%20Love%20Crypto%203%2F3%20%E2%80%93%20Art%20Gobbler%20Page%202900&hmac_input_type=utf-8&output_type=hex)
+proof - [link](https://emn178.github.io/online-tools/sha256.html?input_type=utf-8&input=1.%20The%20Last%20Train%20%E2%80%93%20Art%20Gobbler%20Page%209352%0A2.%20ADAPTATION%20%E2%80%93%20Art%20Gobbler%20Page%2011671%0A3.%20Tranquility%20%E2%80%93%20Art%20Gobbler%20Page%2011348%0A4.%20LURK%20%E2%80%93%20Art%20Gobbler%20Page%20136%0A5.%20lovers%20%E2%80%93%20Art%20Gobbler%20Page%204467%0A6.%20Confession%20%E2%80%93%20Art%20Gobbler%20Page%2011361%0A7.%20Love%20Crypto%203%2F3%20%E2%80%93%20Art%20Gobbler%20Page%202900&hmac_input_type=utf-8&output_type=hex)
 
 result: 
 
@@ -75,7 +75,7 @@ hash: 4194a22dfc8f59f0652c086209ee8a1d2406d1a2ca534b0e36643b1390e2ffec
 
 ![second](https://gyazo.com/fec72e54f898712bfd63a3038a323c92.png)
 
-proof - [pic](https://emn178.github.io/online-tools/sha256.html?input_type=utf-8&input=1,https%3A%2F%2Fopensea.io%2Fassets%2Fethereum%2F0x600df00d3e42f885249902606383ecdcb65f2e02%2F11348%0A2,https%3A%2F%2Fopensea.io%2Fassets%2Fethereum%2F0x600df00d3e42f885249902606383ecdcb65f2e02%2F11350%0A3,https%3A%2F%2Fopensea.io%2Fassets%2Fethereum%2F0x600df00d3e42f885249902606383ecdcb65f2e02%2F9352%0A4,https%3A%2F%2Fopensea.io%2Fassets%2Fethereum%2F0x600df00d3e42f885249902606383ecdcb65f2e02%2F9353%0A5,https%3A%2F%2Fopensea.io%2Fassets%2Fethereum%2F0x600df00d3e42f885249902606383ecdcb65f2e02%2F11352%0A6,https%3A%2F%2Fopensea.io%2Fassets%2Fethereum%2F0x600df00d3e42f885249902606383ecdcb65f2e02%2F11355%0A7,https%3A%2F%2Fopensea.io%2Fassets%2Fethereum%2F0x600df00d3e42f885249902606383ecdcb65f2e02%2F3570&hmac_input_type=utf-8&output_type=hex)
+proof - [link](https://emn178.github.io/online-tools/sha256.html?input_type=utf-8&input=1,https%3A%2F%2Fopensea.io%2Fassets%2Fethereum%2F0x600df00d3e42f885249902606383ecdcb65f2e02%2F11348%0A2,https%3A%2F%2Fopensea.io%2Fassets%2Fethereum%2F0x600df00d3e42f885249902606383ecdcb65f2e02%2F11350%0A3,https%3A%2F%2Fopensea.io%2Fassets%2Fethereum%2F0x600df00d3e42f885249902606383ecdcb65f2e02%2F9352%0A4,https%3A%2F%2Fopensea.io%2Fassets%2Fethereum%2F0x600df00d3e42f885249902606383ecdcb65f2e02%2F9353%0A5,https%3A%2F%2Fopensea.io%2Fassets%2Fethereum%2F0x600df00d3e42f885249902606383ecdcb65f2e02%2F11352%0A6,https%3A%2F%2Fopensea.io%2Fassets%2Fethereum%2F0x600df00d3e42f885249902606383ecdcb65f2e02%2F11355%0A7,https%3A%2F%2Fopensea.io%2Fassets%2Fethereum%2F0x600df00d3e42f885249902606383ecdcb65f2e02%2F3570&hmac_input_type=utf-8&output_type=hex)
 
 result: 
 
