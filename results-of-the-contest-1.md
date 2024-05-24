@@ -200,17 +200,17 @@ result:
 
 ### Total by artists (unofficial ranking):
 
-@Sea2538 = 33 points;
-@luis17284254 = 32 points;
-@aintnoking = 18 points;
-@evzadolls = 16 points;
-@MazzyZhang = 13 points;
-@GobbaGoon = 12 points;
-@Lamenthyst = 12 points;
-@P1u3mm = 7 points;
-@Cherrynekonya = 7 points;
-@Neo_Arts9 = 7 points;
-@le___Clochard = 4 points;
-@esikkoba = 3 points;
-@victorfuror_eth = 2 points;
-@RYuki_79 = 2 points;
+- @Sea2538 = 33 points;
+- @luis17284254 = 32 points;
+- @aintnoking = 18 points;
+- @evzadolls = 16 points;
+- @MazzyZhang = 13 points;
+- @GobbaGoon = 12 points;
+- @Lamenthyst = 12 points;
+- @P1u3mm = 7 points;
+- @Cherrynekonya = 7 points;
+- @Neo_Arts9 = 7 points;
+- @le___Clochard = 4 points;
+- @esikkoba = 3 points;
+- @victorfuror_eth = 2 points;
+- @RYuki_79 = 2 points;
