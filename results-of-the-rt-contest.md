@@ -46,7 +46,9 @@ remainder of the division: 57375379022435612397988675978967748143970989204556517
 
 ---------
 
-New list (without @P1u3mm): [@Neo_Arts9, @MazzyZhang, @RYuki_79, @victorfuror_eth, @Feld4014, @notablebuyer, @SWHEATZ1, @Lamenthyst, @Sea2538, @luis17284254, @eminnisa_, @SawariART, @merdan_kadyrow, @le___Clochard, @uglydewdropper, @being0496, @a..., @d..., @Cherrynekonya, @Neo_Arts9, @Feld4014, @notablebuyer, @a..., @Neo_Arts9] (indexes from 0 to 23)
+New list (without @P1u3mm): 
+
+[@Neo_Arts9, @MazzyZhang, @RYuki_79, @victorfuror_eth, @Feld4014, @notablebuyer, @SWHEATZ1, @Lamenthyst, @Sea2538, @luis17284254, @eminnisa_, @SawariART, @merdan_kadyrow, @le___Clochard, @uglydewdropper, @being0496, @a..., @d..., @Cherrynekonya, @Neo_Arts9, @Feld4014, @notablebuyer, @a..., @Neo_Arts9] (indexes from 0 to 23)
 
 second tx: https://etherscan.io/tx/0xf1fff37dfac52a3358ccd5d4ce654a2318306d2ffba83e57f84c621845f5c10e
 
@@ -58,7 +60,9 @@ remainder of the division: 10945962303085047293313997094540704506130325247666349
 
 ---------
 
-New list (without @a...): [@Neo_Arts9, @MazzyZhang, @RYuki_79, @victorfuror_eth, @Feld4014, @notablebuyer, @SWHEATZ1, @Lamenthyst, @Sea2538, @luis17284254, @eminnisa_, @SawariART, @merdan_kadyrow, @le___Clochard, @uglydewdropper, @being0496, @d..., @Cherrynekonya, @Neo_Arts9, @Feld4014, @notablebuyer, @Neo_Arts9] (indexes from 0 to 21)
+New list (without @a...): 
+
+[@Neo_Arts9, @MazzyZhang, @RYuki_79, @victorfuror_eth, @Feld4014, @notablebuyer, @SWHEATZ1, @Lamenthyst, @Sea2538, @luis17284254, @eminnisa_, @SawariART, @merdan_kadyrow, @le___Clochard, @uglydewdropper, @being0496, @d..., @Cherrynekonya, @Neo_Arts9, @Feld4014, @notablebuyer, @Neo_Arts9] (indexes from 0 to 21)
 
 third transaction: https://etherscan.io/tx/0xab57516626d65f7b90b2a1c8d689740173d82f07eb94f67322c5017757d5128c
 
