@@ -143,7 +143,7 @@ result:
 - Proshai, Livushka by @GobbaGoon - 6 points;
 - ADAPTATION by @evzadolls - 5 points;
 - 被追捕的艺术大盗 by @MazzyZhang - 4 points;
-- The Last Train by @luis17284254 by @luis17284254 - 3 points;
+- The Last Train by @luis17284254 - 3 points;
 - KING WATCHER by @aintnoking - 2 points;
 - The SQUARE of Life by @Neo_Arts9 1 point.
 
