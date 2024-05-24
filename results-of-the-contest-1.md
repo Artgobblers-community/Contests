@@ -113,7 +113,7 @@ result:
 
 hash: d206d3d92bc4b7d66c3eb8b655762fc8212fce992d7bde91b5b35b9731ef8cd5
 
-![pic](https://gyazo.com/be95f415c92144f55c039a86a5271ff1?token=de2a35d4e75936b2155ce337262e869d.png)
+![pic](https://gyazo.com/745ab743af28847325f3354caf32bdc7.png)
 
 proof - [link](https://bit.ly/3KfGXOJ)
 
