@@ -161,6 +161,7 @@ Good luck!
 * [Dream by @victorfuror_eth](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/11355)
 * [Love Crypto 2/3 by @victorfuror_eth](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/4897)
 * [Love Crypto 3/3 by @victorfuror_eth](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/2900)
+* [breeze by @eminnisa_](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/11334)
 
 
   
