@@ -46,6 +46,8 @@ To determine the top three winners, each of the six multisig signatories indepen
 
 The first place in each list is awarded seven points, the second place gets six points, and so forth. In the end, the points are summed up to identify the winners.
 
+-------------
+
 1) @alexq.goodao
    
 hash: 3ef38ad3cd959e3b3e244b5313584b0c096bb14937f72852b3d18390bd1a3bd6
@@ -56,14 +58,16 @@ proof - [link](https://emn178.github.io/online-tools/sha256.html?input_type=utf-
 
 result: 
 
-The Last Train – Art Gobbler Page 9352 - 7 points
-ADAPTATION – Art Gobbler Page 11671 - 6 points
-Tranquility – Art Gobbler Page 11348 - 5 points
-LURK – Art Gobbler Page 136 - 4 points
-lovers – Art Gobbler Page 4467 - 3 points
-Confession – Art Gobbler Page 11361 - 2 points 
-Love Crypto 3/3 – Art Gobbler Page 2900 - 1 point
+- The Last Train – Art Gobbler Page 9352 - 7 points
+- ADAPTATION – Art Gobbler Page 11671 - 6 points
+- Tranquility – Art Gobbler Page 11348 - 5 points
+- LURK – Art Gobbler Page 136 - 4 points
+- lovers – Art Gobbler Page 4467 - 3 points
+- Confession – Art Gobbler Page 11361 - 2 points
+- Love Crypto 3/3 – Art Gobbler Page 2900 - 1 point
 
 
-3) @andrew_sha 
+-------------
+
+2) @andrew_sha 
 
