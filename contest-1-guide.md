@@ -119,7 +119,7 @@ This contest will last until approximately mid or end of May 2024.
 
 Good luck!
 
-## Participants:
+### A total of 42 artworks were submitted to the contest by 17 artists, the full list is below:
 * [Untitled Artwork by @merdan_kadyrow](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/4474)
 * [Untitled Artwork by @merdan_kadyrow](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/5295)
 * [Untitled Artwork by @merdan_kadyrow](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/5335)
@@ -163,6 +163,5 @@ Good luck!
 * [Love Crypto 3/3 by @victorfuror_eth](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/2900)
 * [breeze by @eminnisa_](https://opensea.io/assets/ethereum/0x600df00d3e42f885249902606383ecdcb65f2e02/11334)
 
-
-  
+List = [Untitled Artwork by @merdan_kadyrow, Untitled Artwork by @merdan_kadyrow, Untitled Artwork by @merdan_kadyrow, Calico by @RYuki_79, 望春天 by @MazzyZhang, 被追捕的艺术大盗 by @MazzyZhang, The Unknown by @P1u3mm, The Fallen by @P1u3mm, Scarlett by @RYuki_79, 怒！by OASIS-1016, Artifact of the era by @le___Clochard, Strawbekiss by @le___Clochard, The Apotheosis of War by @le___Clochard, Looking up by @Lamenthyst, The Angel's Emergence by @Lamenthyst, Proshai, Livushka by @GobbaGoon, KING WATCHER by @aintnoking, The SQUARE of Life by @Neo_Arts9, Golden fields by @Sea2538, Seppuku by @Neo_Arts9, Last Wave by @aintnoking, LURK by @aintnoking, Tranquility by @Sea2538, Cold night by @Sea2538, The Eternity by @P1u3mm, Poor catalcohollic by @Cherrynekonya, Susuwatari by @Cherrynekonya, Saurrai by @Cherrynekonya, Confession by @Lamenthyst, The Last Train by @luis17284254, Long way home by @luis17284254, 追 by @MazzyZhang, DIVE INTO MY WORLD by @evzadolls, ADAPTATION by @evzadolls, the face of protest by @esikkoba, lovers by @esikkoba, riot policeman by @esikkoba, My Tears Ricochet by @RYuki_79, Dream by @victorfuror_eth, Love Crypto 2/3 by @victorfuror_eth, Love Crypto 3/3 by @victorfuror_eth, breeze by @eminnisa_]
 
